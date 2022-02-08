@@ -1,0 +1,12 @@
+1. create differnt users types(manufacturer,logistic, distributer, seller, customer,);
+
+
+2. FN,LN,type,mob no,email
+3. Create product- (name,qty,type,mfc date,mfd by , exp date, stutus , current Ownership , shipped by ( log company name))
+
+
+
+
+4. update product 
+5. Ship product (mfc-> log -> distributer -> seller -> customer )
+6. Sell product (Once sold, no changes can be done)
